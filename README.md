@@ -5,6 +5,8 @@ Hi there 👋
 📫 How to reach me: ljm18160809153@163.com 
 在杭州安定下来工作之后的学习总结
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=First-Jim&count_private=true&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+
 【持续更新】大前端系列知识博客
 
 个人方向：大前端，偏React技术栈
