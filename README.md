@@ -2,7 +2,7 @@ Hi there 👋
 🔭 I’m currently working on HangZhou.
 🌱 I’m currently learning React Hooks、Nodejs、Vuejs, etc.
 💬 Ask me about front-end.
-📫 How to reach me: ljm18160809153@163.com 
+📫 How to reach me: 1441821178@qq.com 
 在杭州安定下来工作之后的学习总结
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=First-Jim&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
