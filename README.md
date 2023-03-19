@@ -14,6 +14,4 @@ Hi there 👋
 React、React-Router、Redux、Hooks、Mobx、Immutable、Webpack。
 React-Native、TypeScript、Redux-Saga、babel。
 NodeJS、Flutter、Vue 3。
-Fighting 好少年！
-以上。。。。
 
