@@ -2,7 +2,7 @@ Hi there 👋
 🔭 I’m currently working on HangZhou.
 🌱 I’m currently learning React Hooks、Nodejs、Vuejs, etc.
 💬 Ask me about front-end.
-📫 How to reach me: 1441821178@qq.com 
+📫 How to reach me: firstjim001@gmail.com
 在杭州安定下来工作之后的学习总结
 
 【持续更新】大前端系列知识博客
